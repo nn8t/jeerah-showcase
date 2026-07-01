@@ -1,138 +1,88 @@
 # Jeerah Screenshots
 
-> Public screenshot guide for the Jeerah showcase repository.
+> Public product screenshots for Jeerah.  
+> All screenshots use demo data only and do not expose real customer, driver, payment, address, or production information.
 
 ---
 
-## Purpose
+## Customer App
 
-This file defines how screenshots should be added to the public Jeerah repository safely.
+### Login
 
-Screenshots help recruiters, interviewers, and reviewers understand the product without exposing private data or sensitive implementation.
+![Customer Login](../assets/customer-app/تسجيل الدخول.png)
 
----
+### Location Selection
 
-## Planned Screenshot Sections
+![Location Selection](../assets/customer-app/تحديد الموقع.png)
 
-### Customer App
+### Customer Home
 
-Recommended screenshots:
+![Customer Home](../assets/customer-app/الرئيسية.png)
 
-- Login screen
-- OTP verification
-- Customer home
-- Create order
-- Active order tracking
-- Final payment selection
-- Delivery progress
-- Order completed
+### Customer Main Page
 
-Suggested folder:
+![Customer Main Page](../assets/customer-app/الرئيسية صفحة العميل.png)
 
-```text
-assets/customer-app/
-```
+### Create Order
 
----
+![Create Order](../assets/customer-app/انشاء الطلب.png)
 
-### Driver App
+### Order Created Notification
 
-Recommended screenshots:
+![Order Created](../assets/customer-app/اشعار انشاء الطلب.png)
 
-- Driver login
-- Available trips
-- Trip details
-- Active trip
-- Merchant arrival
-- Invoice submission
-- Pickup confirmation
-- Delivery progress
-- Trip completion
+### Payment
 
-Suggested folder:
+![Payment](../assets/customer-app/الدفع.png)
 
-```text
-assets/driver-app/
-```
+### Rating
+
+![Rating](../assets/customer-app/التقييم.png)
 
 ---
 
-### Admin Dashboard
+## Driver App
 
-Recommended screenshots:
+### Driver Registration
 
-- Dashboard overview
-- Orders table
-- Trips table
-- Driver monitoring
-- Customer monitoring
-- Payment states
-- Analytics preview
+![Driver Registration](../assets/driver-app/تسجيل سائق.png)
 
-Suggested folder:
+### Driver Registration Step 2
 
-```text
-assets/admin-dashboard/
-```
+![Driver Registration Step 2](../assets/driver-app/تسجيل سائق 2.png)
 
----
+### Driver Registration Step 3
 
-## Screenshot Privacy Rules
+![Driver Registration Step 3](../assets/driver-app/تسجيل سائق 3.png)
 
-Do not show:
+### Driver Registration Step 4
 
-- Real customer names
-- Real driver names
-- Real phone numbers
-- Real addresses
-- Payment details
-- Internal IDs
-- API responses
-- Production URLs
-- Admin secrets
-- Database names
-- Real invoice images
+![Driver Registration Step 4](../assets/driver-app/تسجيل سائق 4.png)
 
-Use demo data only.
+### Driver Home
 
----
+![Driver Home](../assets/driver-app/الرئيسية للسائق.png)
 
-## Screenshot Naming Convention
+### Available Trips
 
-Use clear lowercase filenames:
+![Available Trips](../assets/driver-app/الرحلات المتاحة.png)
 
-```text
-customer-home.png
-customer-payment-selection.png
-driver-active-trip.png
-driver-invoice-submission.png
-admin-orders-overview.png
-```
+### Driver Trip
 
----
+![Driver Trip](../assets/driver-app/رحلة السائق.png)
 
-## Markdown Example
+### Shared Order
 
-```md
-![Customer Home](../assets/customer-app/customer-home.png)
-```
+![Shared Order](../assets/driver-app/طلبات مشترك للسائق.png)
 
----
+### Shared Order Details 2
 
-## Future Improvements
+![Shared Order Details 2](../assets/driver-app/طلب مشترك للسائق 2.png)
 
-- Add GIF walkthroughs
-- Add annotated screenshots
-- Add mobile mockups
-- Add architecture images
-- Add before/after workflow visuals
+### Shared Order Details 3
 
----
+![Shared Order Details 3](../assets/driver-app/طلب مشترك للسائق 3.png)
 
-<div align="center">
+### Driver Earnings
 
-**Jeerah Screenshots**
-
-*Show the product. Protect the data.*
-
-</div>
+![Driver Earnings](../assets/driver-app/ارباج السائق.png)
