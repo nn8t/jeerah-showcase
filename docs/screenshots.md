@@ -7,89 +7,128 @@
 
 ## Customer App
 
-### Welcome / Main Entry
+The customer app is designed to provide a simple ordering experience for users in remote communities.
 
-![Customer Main](<../assets/customer-app/الرئيسية.png>)
-
-### Login
-
-![Customer Login](<../assets/customer-app/تسجيل الدخول.png>)
-
-### Location Selection
-
-![Location Selection](<../assets/customer-app/تحديد الموقع.png>)
-
-### Customer Home
-
-![Customer Home](<../assets/customer-app/الرئيسية صفحة العميل.png>)
-
-### Create Order
-
-![Create Order](<../assets/customer-app/انشاء طلب.png>)
-
-### Order Created Notification
-
-![Order Created Notification](<../assets/customer-app/اشعار انشاء الطلب.png>)
-
-### Payment
-
-![Payment](<../assets/customer-app/الدفع.png>)
-
-### Payment Step 2
-
-![Payment Step 2](<../assets/customer-app/الدفع2.png>)
-
-### Rating
-
-![Rating](<../assets/customer-app/التقييم.png>)
+<table>
+  <tr>
+    <td align="center">
+      <img src="../assets/customer-app/customer-welcome.png" width="260" alt="Customer Welcome" />
+      <br />
+      <b>Welcome Screen</b>
+    </td>
+    <td align="center">
+      <img src="../assets/customer-app/customer-login.png" width="260" alt="Customer Login" />
+      <br />
+      <b>Login</b>
+    </td>
+    <td align="center">
+      <img src="../assets/customer-app/customer-location.png" width="260" alt="Customer Location" />
+      <br />
+      <b>Location Selection</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../assets/customer-app/customer-home.png" width="260" alt="Customer Home" />
+      <br />
+      <b>Customer Home</b>
+    </td>
+    <td align="center">
+      <img src="../assets/customer-app/customer-create-order.png" width="260" alt="Create Order" />
+      <br />
+      <b>Create Order</b>
+    </td>
+    <td align="center">
+      <img src="../assets/customer-app/customer-order-created.png" width="260" alt="Order Created" />
+      <br />
+      <b>Order Created</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../assets/customer-app/customer-payment.png" width="260" alt="Customer Payment" />
+      <br />
+      <b>Payment</b>
+    </td>
+    <td align="center">
+      <img src="../assets/customer-app/customer-payment-step-2.png" width="260" alt="Payment Step 2" />
+      <br />
+      <b>Payment Confirmation</b>
+    </td>
+    <td align="center">
+      <img src="../assets/customer-app/customer-rating.png" width="260" alt="Customer Rating" />
+      <br />
+      <b>Rating</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Driver App
 
-### Driver Registration
+The driver app is designed to help drivers accept shared trips, manage pickup workflows, submit invoices, and complete deliveries.
 
-![Driver Registration](<../assets/driver-app/تسجيل سائق.png>)
-
-### Driver Registration Step 2
-
-![Driver Registration Step 2](<../assets/driver-app/تسجيل سائق 2.png>)
-
-### Driver Registration Step 3
-
-![Driver Registration Step 3](<../assets/driver-app/تسجيل سائق 3.png>)
-
-### Driver Registration Step 4
-
-![Driver Registration Step 4](<../assets/driver-app/تسجيل سائق 4.png>)
-
-### Driver Home
-
-![Driver Home](<../assets/driver-app/الرئيسية للسائق.png>)
-
-### Available Trips
-
-![Available Trips](<../assets/driver-app/الرحلات المتاحة.png>)
-
-### Driver Trip
-
-![Driver Trip](<../assets/driver-app/رحلة السائق.png>)
-
-### Shared Order
-
-![Shared Order](<../assets/driver-app/طلب مشترك للسائق.png>)
-
-### Shared Order Details 2
-
-![Shared Order Details 2](<../assets/driver-app/طلب مشترك للسائق2.png>)
-
-### Shared Order Details 3
-
-![Shared Order Details 3](<../assets/driver-app/طلب مشترك للسائق3.png>)
-
-### Driver Earnings
-
-![Driver Earnings](<../assets/driver-app/ارباح السائق.png>)
+<table>
+  <tr>
+    <td align="center">
+      <img src="../assets/driver-app/driver-registration.png" width="260" alt="Driver Registration" />
+      <br />
+      <b>Driver Registration</b>
+    </td>
+    <td align="center">
+      <img src="../assets/driver-app/driver-registration-step-2.png" width="260" alt="Driver Registration Step 2" />
+      <br />
+      <b>Registration Step 2</b>
+    </td>
+    <td align="center">
+      <img src="../assets/driver-app/driver-registration-step-3.png" width="260" alt="Driver Registration Step 3" />
+      <br />
+      <b>Registration Step 3</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../assets/driver-app/driver-registration-step-4.png" width="260" alt="Driver Registration Step 4" />
+      <br />
+      <b>Registration Step 4</b>
+    </td>
+    <td align="center">
+      <img src="../assets/driver-app/driver-home.png" width="260" alt="Driver Home" />
+      <br />
+      <b>Driver Home</b>
+    </td>
+    <td align="center">
+      <img src="../assets/driver-app/driver-available-trips.png" width="260" alt="Available Trips" />
+      <br />
+      <b>Available Trips</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../assets/driver-app/driver-trip.png" width="260" alt="Driver Trip" />
+      <br />
+      <b>Active Trip</b>
+    </td>
+    <td align="center">
+      <img src="../assets/driver-app/driver-shared-order.png" width="260" alt="Shared Order" />
+      <br />
+      <b>Shared Order</b>
+    </td>
+    <td align="center">
+      <img src="../assets/driver-app/driver-shared-order-step-2.png" width="260" alt="Shared Order Step 2" />
+      <br />
+      <b>Shared Order Step 2</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../assets/driver-app/driver-earnings.png" width="260" alt="Driver Earnings" />
+      <br />
+      <b>Driver Earnings</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
