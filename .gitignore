@@ -1,0 +1,76 @@
+# Jeerah Showcase .gitignore
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Supabase local/private config
+supabase/
+*.sql
+
+# Flutter/Dart source if accidentally copied
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+ios/
+android/
+lib/
+test/
+web/
+windows/
+macos/
+linux/
+
+# Node / JavaScript
+node_modules/
+dist/
+.next/
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Secrets and keys
+*.pem
+*.key
+*.p12
+*.jks
+*.keystore
+service-account*.json
+google-services.json
+GoogleService-Info.plist
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Production data
+*.dump
+*.backup
+*.db
+*.sqlite
+*.sqlite3
+
+# Private notes
+private/
+internal/
+secrets/
